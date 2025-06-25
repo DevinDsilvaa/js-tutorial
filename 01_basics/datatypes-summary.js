@@ -1,6 +1,6 @@
 //  Primitive
 
-//  7 types : String, Number, Boolearn, null, undefined, Symbol, BigInt
+//  7 types : String, Number, Boolean, null, undefined, Symbol, BigInt
 
 const score = 100
 const scoreValue = 100.3
@@ -22,14 +22,14 @@ console.log(id === anotherId);
 
 // Array, Objects, Functions
 
-const heros = ["shaktiman", "naagraj", "doga"];
+const heroes = ["shaktiman", "naagraj", "doga"];
 let myObj = {
-    name: "hitesh",
-    age: 22,
+    name: "devin",
+    age: 20,
 }
 
 const myFunction = function(){
-    console.log("Hello world");
+    console.log("Hello Guys");
 }
 
 console.log(typeof anotherId);
